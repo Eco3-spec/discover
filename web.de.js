@@ -1,3 +1,4 @@
 window.onload = function () {
-  document.body.style.zoom = "65%";
+  document.body.style.zoom = "78%";
 };
+
